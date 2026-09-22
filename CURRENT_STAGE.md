@@ -4,7 +4,7 @@ Updated: 2026-09-22
 
 **Current position: A — Identity & Academic Profile Foundation / 基础身份与学术主页**
 
-Status: **Published and verified; profile presentation remains in progress.**
+Status: **Stage A completed and publicly verified. Next: Stage B — Tool Foundations.**
 
 ## What is complete
 
@@ -17,9 +17,9 @@ Status: **Published and verified; profile presentation remains in progress.**
 ## Stage A exit checks
 
 - [x] Publish the profile README and verify that it appears on the public profile.
-- [ ] Save and verify the profile bio.
+- [x] Save and verify the profile bio.
 - [x] Publish and inspect the three repositories; ensure their public links work.
-- [ ] Set the intended pinned repositories.
+- [x] Pin `learning-lab`, `sports-ai-lab`, and `research-notes` on the profile.
 - [x] Record the actual URLs and publication date below.
 
 Publication date: 2026-09-22.
