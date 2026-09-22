@@ -2,9 +2,17 @@
 
 Updated: 2026-09-22
 
-**Current position: A — Identity & Academic Profile Foundation / 基础身份与学术主页**
+**Current position: B → C → D / Tool practice, learning activation, first project**
 
-Status: **Stage A completed and publicly verified. Next: Stage B — Tool Foundations.**
+Status: **A completed; B practicing; C active; D first project started.**
+
+## Current route
+
+- A — Identity Foundation ✅
+- B — Tool Foundations 🟢 **PRACTICING**
+- C — Learning System 🟡 **ACTIVE**
+- D — Project System 🟡 **FIRST PROJECT STARTED**
+- E–H ⚪ preparing
 
 ## What is complete
 
@@ -31,18 +39,20 @@ Verified public URLs:
 - https://github.com/wang14759761129-tech/sports-ai-lab
 - https://github.com/wang14759761129-tech/research-notes
 
-## Next: B — Tool foundations / 工具基础层
+## Next: C — Learning system / 学习系统
 
-Purpose: understand and independently update this archive.
+Purpose: turn one small Python run into a repeatable learn → build → document → commit → reflect loop.
 
-First session, approximately 30–45 minutes:
+Completed first B practice evidence:
 
-1. Explain a repository, a README, a commit, and a branch in your own words.
-2. Edit a short Markdown paragraph in `learning-lab/notes/`.
-3. Make one meaningful commit and find its change history.
-4. Explain the difference between a local edit and a published update.
+- `learning-lab/notes/git-github-foundations.md`
+- `learning-lab/python/README.md`
+- `learning-lab/python/fundamentals/match_score_analysis.py`
+- `sports-ai-lab/projects/01-match-descriptive-analysis/`
 
-Completion evidence: one personally understood change and a short explanation of how to inspect or undo it. Python and statistical work follows in C; there is no need to start all three repositories at once.
+The next small learning step is to run the Python file, compare the output with the expected totals, and write one reflection. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
+
+Completion evidence for the current session: the file and project scaffold are public, each repository has semantic commits, and the program output is checked locally.
 
 ## Progress routine
 
