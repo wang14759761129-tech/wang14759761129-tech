@@ -2,17 +2,18 @@
 
 Updated: 2026-09-22
 
-**Current position: B → C → D / Tool practice, learning activation, first project**
+**Current position: B → C → D → research practice / tool practice, active learning, first reproducible project**
 
-Status: **A completed; B practicing; C active; D first project started.**
+Status: **A completed; B practicing; C active; D first project in progress.**
 
 ## Current route
 
 - A — Identity Foundation ✅
 - B — Tool Foundations 🟢 **PRACTICING**
 - C — Learning System 🟡 **ACTIVE**
-- D — Project System 🟡 **FIRST PROJECT STARTED**
-- E–H ⚪ preparing
+- D — Project System 🟡 **FIRST PROJECT IN PROGRESS**
+- E–F 🟡 research infrastructure prepared; advanced work remains planned
+- G–H ⚪ preparing
 
 ## What is complete
 
@@ -50,7 +51,7 @@ Completed first B practice evidence:
 - `learning-lab/python/fundamentals/match_score_analysis.py`
 - `sports-ai-lab/projects/01-match-descriptive-analysis/`
 
-The next small learning step is to run the Python file, compare the output with the expected totals, and write one reflection. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
+The strongest current public asset is the reproducible, synthetic match description in `sports-ai-lab`. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
 
 Completion evidence for the current session: the file and project scaffold are public, each repository has semantic commits, and the program output is checked locally.
 

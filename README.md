@@ -1,27 +1,45 @@
-# Sports, data, and learning
+# Student Athlete Research Lab
 
-I am a first-year undergraduate student in Sports Training and a table tennis athlete. I am beginning to build a foundation in programming, statistics, and data analysis, while exploring sports analytics, AI, data science, and human performance.
+I am a first-year undergraduate student in Sports Training and a table tennis athlete. I am building foundations in Python, statistics, data analysis, and research communication while exploring sports analytics, human performance, and sports AI.
 
-运动训练本科新生，以乒乓球为实践背景，逐步学习编程、统计、数据分析与英文研究表达。
+## Research focus
 
-## Current focus
+- Table tennis match analytics
+- Training and human performance data
+- Reproducible analysis
+- Research literacy and technical English
 
-- Learn Git, Markdown, and Python through small, explainable tasks.
-- Connect statistical concepts to clearly defined sports questions.
-- Practice reading research and writing concise notes in English.
+## Current questions
 
-## Learning spaces
+- What can a careful description of one match tell us?
+- Which variables should be defined before comparing matches?
+- How can sports data support a small, honest research question?
 
-These are early-stage learning workspaces. Completed work and limitations will be documented within each repository as it develops.
+## Selected work
 
-| Space | Purpose |
-|---|---|
-| [learning-lab](https://github.com/wang14759761129-tech/learning-lab) | Python, statistics, tools, and learning reflections |
-| [sports-ai-lab](https://github.com/wang14759761129-tech/sports-ai-lab) | Table tennis questions, data definitions, and exploratory analysis |
-| [research-notes](https://github.com/wang14759761129-tech/research-notes) | Source-linked reading notes and research questions |
+- [learning-lab](https://github.com/wang14759761129-tech/learning-lab): foundations and learning evidence
+- [sports-ai-lab](https://github.com/wang14759761129-tech/sports-ai-lab): an early public research workspace
+- [research-notes](https://github.com/wang14759761129-tech/research-notes): source-linked paper reading
+- [First match description study](https://github.com/wang14759761129-tech/sports-ai-lab/tree/main/projects/01-match-descriptive-analysis): a synthetic, reproducible exploration
 
-## How I work
+## Learning stack
 
-I aim to document sources, assumptions, methods, and limitations; distinguish practice from findings; and share only material I have permission to publish. When I use AI assistance, I will describe its role and what I verified myself.
+**LEARNING:** Git/GitHub, Markdown, Python fundamentals, descriptive statistics, and technical English.
+
+**PLANNED:** comparative analysis, statistical inference, machine learning, and computer vision.
+
+No item here is marked **MASTERED**. I use learning, exploring, and building to describe my current level honestly.
+
+## 2026–2027 roadmap
+
+1. Foundations: Git, Python, and computational thinking.
+2. Analysis: CSV data, descriptive statistics, and simple visual explanations.
+3. Sports projects: one-match description, then comparison and pattern analysis.
+4. Research literacy: papers, methods, limitations, and reproducibility.
+5. Later, after the foundations: machine learning and computer vision.
+
+## Research principles
+
+Question before tool; document data and permissions; make results reproducible; report limitations; distinguish practice from findings; share only permitted material; use AI as assistance and verify the output.
 
 [Current stage](CURRENT_STAGE.md) · [Long-term roadmap](ROADMAP.md)
