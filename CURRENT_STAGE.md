@@ -2,18 +2,25 @@
 
 Updated: 2026-09-22
 
-**Current position: B → C → D → research practice / tool practice, active learning, first reproducible project**
+**Current position: D Flagship Project + F Research Methods / protocol and data design**
 
-Status: **A completed; B practicing; C active; D first project in progress.**
+Status: **A completed; B practicing; C active; D flagship project started; F research-method foundation active.**
 
 ## Current route
 
 - A — Identity Foundation ✅
 - B — Tool Foundations 🟢 **PRACTICING**
 - C — Learning System 🟡 **ACTIVE**
-- D — Project System 🟡 **FIRST PROJECT IN PROGRESS**
-- E–F 🟡 research infrastructure prepared; advanced work remains planned
+- D — Project System 🟡 **FLAGSHIP PROJECT STARTED**
+- E — Sports AI ⚪ **PLANNED**
+- F — Research System 🟡 **ACTIVE — RESEARCH METHOD FOUNDATION**
 - G–H ⚪ preparing
+
+## Flagship project
+
+- **Serve & Third-Ball Analytics**
+- **Current stage:** Protocol & Data Design
+- **Next node:** Pilot Real Match Dataset
 
 ## What is complete
 
