@@ -4,7 +4,7 @@ Updated: 2026-09-22
 
 **Current position: A — Identity & Academic Profile Foundation / 基础身份与学术主页**
 
-Status: **Prepared locally; GitHub publication pending.**
+Status: **Published and verified; profile presentation remains in progress.**
 
 ## What is complete
 
@@ -16,15 +16,15 @@ Status: **Prepared locally; GitHub publication pending.**
 
 ## Stage A exit checks
 
-- [ ] Publish the profile README and verify that it appears on the public profile.
+- [x] Publish the profile README and verify that it appears on the public profile.
 - [ ] Save and verify the profile bio.
-- [ ] Publish and inspect the three repositories; ensure all navigation links work.
+- [x] Publish and inspect the three repositories; ensure their public links work.
 - [ ] Set the intended pinned repositories.
-- [ ] Record the actual URLs and publication date below.
+- [x] Record the actual URLs and publication date below.
 
-Publication date: pending.
+Publication date: 2026-09-22.
 
-Expected URLs — these are targets, not evidence of publication:
+Verified public URLs:
 
 - https://github.com/wang14759761129-tech
 - https://github.com/wang14759761129-tech/learning-lab
