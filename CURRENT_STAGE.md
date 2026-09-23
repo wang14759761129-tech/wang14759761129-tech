@@ -1,8 +1,8 @@
 # Current stage / 当前阶段
 
-Updated: 2026-09-22
+Updated: 2026-09-23
 
-**Current position: D Flagship Project + F Research Methods / protocol and data design**
+**Current position: D Flagship Project + F Research Methods / Pilot 1 Mini Pilot and protocol checkpoint**
 
 Status: **A completed; B practicing; C active; D flagship project started; F research-method foundation active.**
 
@@ -11,7 +11,7 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 - A — Identity Foundation ✅
 - B — Tool Foundations 🟢 **PRACTICING**
 - C — Learning System 🟡 **ACTIVE**
-- D — Project System 🟡 **FLAGSHIP PROJECT STARTED**
+- D — Project System 🟡 **FLAGSHIP PROJECT ACTIVE — PILOT 1 MINI PILOT COMPLETE**
 - E — Sports AI ⚪ **PLANNED**
 - F — Research System 🟡 **ACTIVE — RESEARCH METHOD FOUNDATION**
 - G–H ⚪ preparing
@@ -19,8 +19,16 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 ## Flagship project
 
 - **Serve & Third-Ball Analytics**
-- **Current stage:** Protocol & Data Design
-- **Next node:** Pilot Real Match Dataset
+- **Current stage:** Pilot 1 Mini Pilot + Protocol Checkpoint (v0.2 method update; schema unchanged)
+- **Next node:** Establish reliable full-speed point review and annotation timing; continue Games 1–3 only if core-field uncertainty falls below the stop threshold, otherwise revise before Pilot 2
+
+## Pilot 1 checkpoint — 2026-09-23
+
+- Inspected 10 outcome transitions in Game 1 of a user-supplied local video; scoreboard displayed Wang Chuqin and Fan Zhendong.
+- The first 10 observed point outcomes were 5–5, reaching a displayed score of 5–5.
+- The 21-variable schema was retained. Tactical fields were marked unknown/unclear rather than inferred; six tracked core fields each had 100% uncertain/not-applicable values.
+- Validator passed all structural checks. Expanded annotation of Games 1–3 is paused because the current visual review did not validate reliable tactical coding.
+- No video, audio, or broadcast frame was added to GitHub. Competition, date, and full-match result remain unverified.
 
 ## What is complete
 
@@ -58,7 +66,7 @@ Completed first B practice evidence:
 - `learning-lab/python/fundamentals/match_score_analysis.py`
 - `sports-ai-lab/projects/01-match-descriptive-analysis/`
 
-The strongest current public asset is the reproducible, synthetic match description in `sports-ai-lab`. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
+The strongest current public asset is the documented real-data Mini Pilot and explicit protocol checkpoint in `sports-ai-lab`; it is outcome-only and does not support tactical conclusions. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
 
 Completion evidence for the current session: the file and project scaffold are public, each repository has semantic commits, and the program output is checked locally.
 
