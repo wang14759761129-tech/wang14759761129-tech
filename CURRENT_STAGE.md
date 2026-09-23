@@ -2,7 +2,7 @@
 
 Updated: 2026-09-23
 
-**Current position: D Flagship Project + F Research Methods / Pilot 1C Human Annotation Calibration**
+**Current position: D Flagship Project + F Measurement & Research Methods / Pilot 2 Video Source Validation**
 
 Status: **A completed; B practicing; C active; D flagship project started; F research-method foundation active.**
 
@@ -19,8 +19,8 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 ## Flagship project
 
 - **Serve & Third-Ball Analytics**
-- **Current stage:** Pilot 1C Human / Visual Annotation Calibration (v0.3; 21-field schema unchanged)
-- **Next node:** Revise the research question/source for tactical analysis; do not expand the sample until core tactical variables meet the uncertainty gate and annotation cost is measured
+- **Current stage:** Pilot 2 Video Source Validation (using Protocol v0.3; 21-field schema unchanged)
+- **Next node:** Assess up to three actual candidate video sources, 10 points per source; do not expand the existing match sample
 
 ## Pilot 1 checkpoint — 2026-09-23
 
@@ -37,6 +37,13 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 - Serve/receive/third-ball/rally fields remain 100% unknown/unclear wherever a 10-point eligible denominator applies. Third-ball side/outcome have no confirmed eligible attacks and their rates are not estimable.
 - Annotation duration and replay count were not recorded; burden and scale costs remain unknown.
 - Decision: **PIVOT the tactical analysis question for this video; REVISE / HOLD expansion.** Keep the flagship track. Protocol v0.3 clarifies timestamp and conditional denominator rules; no schema columns changed.
+
+## Pilot 2 source validation — current node
+
+- The primary research question remains unchanged and is **ON HOLD PENDING MEASUREMENT FEASIBILITY**.
+- Pilot 1C only found the tested 854×480 source unsuitable for the current tactical protocol; it did not invalidate the question or all video sources.
+- Up to three source classes may be tested with 10 points each. No Pilot 2 source has been supplied or assessed yet, so no GO / CONDITIONAL GO / PIVOT verdict is assigned.
+- Core principle: **MEASUREMENT BEFORE SAMPLE SIZE · RELIABILITY BEFORE ANALYSIS · EVIDENCE BEFORE CLAIMS**.
 
 ## What is complete
 
