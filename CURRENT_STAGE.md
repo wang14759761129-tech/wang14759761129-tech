@@ -2,7 +2,7 @@
 
 Updated: 2026-09-23
 
-**Current position: D Flagship Project + F Research Methods / Pilot 1 Mini Pilot and protocol checkpoint**
+**Current position: D Flagship Project + F Research Methods / Pilot 1C Human Annotation Calibration**
 
 Status: **A completed; B practicing; C active; D flagship project started; F research-method foundation active.**
 
@@ -11,7 +11,7 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 - A — Identity Foundation ✅
 - B — Tool Foundations 🟢 **PRACTICING**
 - C — Learning System 🟡 **ACTIVE**
-- D — Project System 🟡 **FLAGSHIP PROJECT ACTIVE — PILOT 1 MINI PILOT COMPLETE**
+- D — Project System 🟡 **FLAGSHIP PROJECT ACTIVE — PILOT 1C CALIBRATION COMPLETE; EXPANSION HELD**
 - E — Sports AI ⚪ **PLANNED**
 - F — Research System 🟡 **ACTIVE — RESEARCH METHOD FOUNDATION**
 - G–H ⚪ preparing
@@ -19,8 +19,8 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 ## Flagship project
 
 - **Serve & Third-Ball Analytics**
-- **Current stage:** Pilot 1 Mini Pilot + Protocol Checkpoint (v0.2 method update; schema unchanged)
-- **Next node:** Establish reliable full-speed point review and annotation timing; continue Games 1–3 only if core-field uncertainty falls below the stop threshold, otherwise revise before Pilot 2
+- **Current stage:** Pilot 1C Human / Visual Annotation Calibration (v0.3; 21-field schema unchanged)
+- **Next node:** Revise the research question/source for tactical analysis; do not expand the sample until core tactical variables meet the uncertainty gate and annotation cost is measured
 
 ## Pilot 1 checkpoint — 2026-09-23
 
@@ -29,6 +29,14 @@ Status: **A completed; B practicing; C active; D flagship project started; F res
 - The 21-variable schema was retained. Tactical fields were marked unknown/unclear rather than inferred; six tracked core fields each had 100% uncertain/not-applicable values.
 - Validator passed all structural checks. Expanded annotation of Games 1–3 is paused because the current visual review did not validate reliable tactical coding.
 - No video, audio, or broadcast frame was added to GitHub. Competition, date, and full-match result remain unverified.
+
+## Pilot 1C calibration — 2026-09-23
+
+- External visual inspection supplied 10 rows for the same first 10 points; no point was added.
+- Core match-state fields were populated and score progression validated through 5–5.
+- Serve/receive/third-ball/rally fields remain 100% unknown/unclear wherever a 10-point eligible denominator applies. Third-ball side/outcome have no confirmed eligible attacks and their rates are not estimable.
+- Annotation duration and replay count were not recorded; burden and scale costs remain unknown.
+- Decision: **PIVOT the tactical analysis question for this video; REVISE / HOLD expansion.** Keep the flagship track. Protocol v0.3 clarifies timestamp and conditional denominator rules; no schema columns changed.
 
 ## What is complete
 
@@ -66,7 +74,7 @@ Completed first B practice evidence:
 - `learning-lab/python/fundamentals/match_score_analysis.py`
 - `sports-ai-lab/projects/01-match-descriptive-analysis/`
 
-The strongest current public asset is the documented real-data Mini Pilot and explicit protocol checkpoint in `sports-ai-lab`; it is outcome-only and does not support tactical conclusions. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
+The strongest current public asset is the documented human-annotated 10-point calibration with field-level uncertainty and validation evidence in `sports-ai-lab`. It supports match-state description, but not serve/third-ball association analysis from this source. Python, Git, Statistics, and Research remain **LEARNING / PRACTICING — NOT MASTERED**.
 
 Completion evidence for the current session: the file and project scaffold are public, each repository has semantic commits, and the program output is checked locally.
 
